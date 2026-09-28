@@ -7,24 +7,19 @@ Bab 1
 bab 2
 
 SOFTWARE
-•Bash   •Binutils
-•Bison
-•GNU Coreutils
-•Diffutils
-•Findutils
-•Gawk
-•GCC
-•Grep
-•Gzip
 •Linux kernel
+•Bash  •Binutils  •GCC  •Make
+•GNU Coreutils
+•Xz  •Tar  •Gzip
+•Diffutil  •Findutils
+•Gawk
+•Grep
 •M4
-•Make
 •Patch
-•Perl
-•python
+•Perl  •python
 •Sed
-•tar
 •texinfo
-•Xz 
+•bison
 
 This to much :v
+
