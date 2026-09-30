@@ -1,25 +1,6 @@
-# My-Note
-A note to myself Theme (LFS)
+# Linux
+File System Hierarchy Standard (Linux)
 
-Bab 1
-•Operation System (HOST) or Live OS
+/boot /bin /sbin /lib /dev /etc /tmp /media /mnt /proc /root /var /usr /home /opt /srv
 
-bab 2
-
-SOFTWARE
-•Linux kernel
-•Bash  •Binutils  •GCC  •Make
-•GNU Coreutils
-•Xz  •Tar  •Gzip
-•Diffutil  •Findutils
-•Gawk
-•Grep
-•M4
-•Patch
-•Perl  •python
-•Sed
-•texinfo
-•bison
-
-This to much :v
-
+# this icon is (root) and $ this is user, user can use root by Sudo
